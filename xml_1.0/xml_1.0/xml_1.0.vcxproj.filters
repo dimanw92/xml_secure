@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Файлы исходного кода">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Заголовочные файлы">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="xml_1.0.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="..\..\..\..\..\..\Новая папка\lib\libeay32.lib">
+      <Filter>Заголовочные файлы</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\..\Новая папка\lib\libeay32_a.lib">
+      <Filter>Заголовочные файлы</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\..\Новая папка\lib\libexslt.lib">
+      <Filter>Заголовочные файлы</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\..\Новая папка\lib\libexslt_a.lib">
+      <Filter>Заголовочные файлы</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\..\Новая папка\lib\libxml2.lib">
+      <Filter>Заголовочные файлы</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\..\Новая папка\lib\libxml2_a.lib">
+      <Filter>Заголовочные файлы</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\..\Новая папка\lib\libxml2_a_dll.lib">
+      <Filter>Заголовочные файлы</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\..\Новая папка\lib\libxmlsec.lib">
+      <Filter>Заголовочные файлы</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\..\Новая папка\lib\libxmlsec_a.lib">
+      <Filter>Заголовочные файлы</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\..\Новая папка\lib\libxmlsec-mscrypto.lib">
+      <Filter>Заголовочные файлы</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\..\Новая папка\lib\libxmlsec-mscrypto_a.lib">
+      <Filter>Заголовочные файлы</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\..\Новая папка\lib\libxmlsec-openssl.lib">
+      <Filter>Заголовочные файлы</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\..\Новая папка\lib\libxmlsec-openssl_a.lib">
+      <Filter>Заголовочные файлы</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\..\Новая папка\lib\libxslt.lib">
+      <Filter>Заголовочные файлы</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\..\Новая папка\lib\libxslt_a.lib">
+      <Filter>Заголовочные файлы</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\..\Новая папка\lib\ssleay32.lib">
+      <Filter>Заголовочные файлы</Filter>
+    </Library>
+    <Library Include="..\..\..\..\..\..\Новая папка\lib\ssleay32_a.lib">
+      <Filter>Заголовочные файлы</Filter>
+    </Library>
+  </ItemGroup>
+</Project>

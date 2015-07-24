@@ -1,0 +1,30 @@
+﻿Сборка начата 23.07.2015 10:05:25.
+Проект "G:\user\ocs\GitHub\xml_secure\xml_1.0\xml_1.0\xml_1.0.vcxproj" в узле 2 (целевые объекты Build).
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt xml_1.0.cpp
+  xml_1.0.cpp
+Link:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\user\ocs\GitHub\xml_secure\xml_1.0\Debug\xml_1.0.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\user\ocs\GitHub\xml_secure\xml_1.0\Debug\xml_1.0.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\user\ocs\GitHub\xml_secure\xml_1.0\Debug\xml_1.0.lib" /MACHINE:X86 Debug\xml_1.0.obj
+  "..\..\..\..\..\..\Новая папка\lib\libeay32.lib"
+  "..\..\..\..\..\..\Новая папка\lib\libeay32_a.lib"
+  "..\..\..\..\..\..\Новая папка\lib\libexslt.lib"
+  "..\..\..\..\..\..\Новая папка\lib\libexslt_a.lib"
+  "..\..\..\..\..\..\Новая папка\lib\libxml2.lib"
+  "..\..\..\..\..\..\Новая папка\lib\libxml2_a.lib"
+  "..\..\..\..\..\..\Новая папка\lib\libxml2_a_dll.lib"
+  "..\..\..\..\..\..\Новая папка\lib\libxmlsec-mscrypto.lib"
+  "..\..\..\..\..\..\Новая папка\lib\libxmlsec-mscrypto_a.lib"
+  "..\..\..\..\..\..\Новая папка\lib\libxmlsec-openssl.lib"
+  "..\..\..\..\..\..\Новая папка\lib\libxmlsec-openssl_a.lib"
+  "..\..\..\..\..\..\Новая папка\lib\libxmlsec.lib"
+  "..\..\..\..\..\..\Новая папка\lib\libxmlsec_a.lib"
+  "..\..\..\..\..\..\Новая папка\lib\libxslt.lib"
+  "..\..\..\..\..\..\Новая папка\lib\libxslt_a.lib"
+  "..\..\..\..\..\..\Новая папка\lib\ssleay32.lib"
+  "..\..\..\..\..\..\Новая папка\lib\ssleay32_a.lib"
+  xml_1.0.vcxproj -> G:\user\ocs\GitHub\xml_secure\xml_1.0\Debug\xml_1.0.exe
+Сборка проекта "G:\user\ocs\GitHub\xml_secure\xml_1.0\xml_1.0\xml_1.0.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:33.63
